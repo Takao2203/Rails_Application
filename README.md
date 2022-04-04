@@ -1,2 +1,1 @@
-# Rails_Application
-railsアプリケーションのディレクトリごと、リモートリポジトリとする。
+# sampleRepo
